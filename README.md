@@ -1,3 +1,7 @@
+
+
+<td style="width: 15%;"><img src="https://github.com/Epaminondaslage/Automacao-industrial-e-residencial-Ecossistema-didatico/blob/main/img/em%20constru%C3%A7%C3%A3o.jpg" width="15%" /></td>
+
 # SO Debian SBC OrangePI
 
 1) Baixar a imagem oficial no site da orangepi: http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-One.html
