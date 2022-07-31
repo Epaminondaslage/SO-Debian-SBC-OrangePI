@@ -1,4 +1,3 @@
-
 <td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Automacao-industrial-e-residencial-Ecossistema-didatico/blob/main/img/Logo_CEFET-MG.png" width="20%" /></td>
 <p><strong><span style="color: #0000ff;"> SO Debian SBC OrangePI</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
@@ -12,8 +11,6 @@
 * [Introdução](#Introdução)
 
 # Introdução
-
-# SO Debian SBC OrangePI
 
 1) Baixar a imagem oficial no site da orangepi: http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-One.html
 - Selecionei a versão debian > server (terminal) pois é mais leve que a desktop (que possui interface gráfica)
